@@ -27,6 +27,46 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+      
+    Favorite applications and features:
+      1. Pinterest
+         - Content suggested based on the most updated board
+         - Search based on skin tone
+         - In the search tab there are pictures grouped into different categories that would allow you to automatically add the suggested pictures to that      
+           specific board.
+      3. TikTok
+         - For you page algorithm
+         - Repost feature 
+         - Saving videos in different folders 
+      4. Instagram
+         - Deleting Messages
+         - Close Friends
+         - Explore Page 
+      5. Netflix
+         - Tailors the movie suggestions to your liking
+         - New recommendations based on what everyone is watching, allowing users to discover new movies or genres.
+
+   ## App Idea
+
+    If I were to create an app, it would be dedicated to helping people manage their gym journeys. Users would be able to track weight progression, daily calorie  
+    intake, protein intake, and BMI. For women, the app would also offer menstrual cycle tracking.
+    
+    The app would have the feel of a social media platform, allowing people to post workout suggestions, techniques for targeting specific muscles, and even 
+    fashion inspiration by showcasing their gym outfits. Users could build a following based on their contributions.
+    
+    This platform would essentially incorporate three apps into one, with icons at the bottom for easy switching between the different features:
+    
+    1. Tracking the menstrual cycle (this tab would only be accessible based on the gender selected during the sign-up process).
+    2. Tracking workout and dietary habits.
+    3. A section for video suggestions, pictures, and the ability to save posts to different folders or mood boards, similar to Pinterest.
+    
+    ## Primary features I would focus on include:
+    
+    - An algorithm based on workout preferences and search history.
+    - Mood boards for different inspirations (clothing, diet, and workout suggestions).
+    - A unique interface that intuitively combines all these elements.
+
+   
 
 ## Notes
 
