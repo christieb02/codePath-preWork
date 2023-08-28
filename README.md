@@ -2,9 +2,9 @@
 
 Submitted by: Christie Beaubrun
 
-IOS101Pre-Work is an app that... [TODO] 
+IOS101Pre-Work is an app that dynamically changes the background color to a randomly generated RGB value when a button is clicked by the user. 
 
-Time spent: 1 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
