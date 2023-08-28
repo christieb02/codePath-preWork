@@ -10,8 +10,8 @@ Time spent: 1 hour spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,11 +20,12 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap
+<! --  [X](file:///private/var/folders/33/z914lypd0j3bl0hvc9n85vjr0000gn/T/375cf01df8fbc29387fe5895336db4e1/Kapture%202023-08-28%20at%2001.46.44.gif) -->
+
+Here is another link to access my GIF, in case the one above does not work:
+
+<! -- [X] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZreDRoZXNxZ3g3eGgyZzN5aHBudnZuc3o3ZGQ0OXhscjQwbHNjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpgPeQfXVEHZ28nAib/giphy.gif) -->
 
 ## App Brainstorming (Step 4)
       
@@ -71,6 +72,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I did not encounter many problems while completing this project, except for one issue: initially, the button wasn't working. However, I resolved this by ensuring that the "Touch Up Inside" event was connected to the changeBackgroundColor: method in the ViewController.
 
 ## License
 
