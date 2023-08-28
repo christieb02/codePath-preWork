@@ -21,11 +21,11 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
-<! --  [X](file:///private/var/folders/33/z914lypd0j3bl0hvc9n85vjr0000gn/T/375cf01df8fbc29387fe5895336db4e1/Kapture%202023-08-28%20at%2001.46.44.gif) -->
+![X](file:///private/var/folders/33/z914lypd0j3bl0hvc9n85vjr0000gn/T/375cf01df8fbc29387fe5895336db4e1/Kapture%202023-08-28%20at%2001.46.44.gif)
 
 Here is another link to access my GIF, in case the one above does not work:
 
-<! -- [X] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZreDRoZXNxZ3g3eGgyZzN5aHBudnZuc3o3ZGQ0OXhscjQwbHNjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpgPeQfXVEHZ28nAib/giphy.gif) -->
+![X] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZreDRoZXNxZ3g3eGgyZzN5aHBudnZuc3o3ZGQ0OXhscjQwbHNjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpgPeQfXVEHZ28nAib/giphy.gif)
 
 ## App Brainstorming (Step 4)
       
